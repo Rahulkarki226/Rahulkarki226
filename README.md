@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-koss2b6j1-rahul-karkis-projects.vercel.app/)
 
-- 💬 Ask me about **Data Analysis and Machine Learning**
+- 💬 Ask me about **Data analyst and Machine Learning**
 
 - 📫 How to reach me **rahulkarki226@gmail.com**
 
